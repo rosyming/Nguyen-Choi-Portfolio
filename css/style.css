@@ -17,6 +17,10 @@ html {
     background-size: cover;
 }
 
+#profile-pic {
+  border-radius: 50%;
+}
+
 .top-nav-collapse {
     background-color: #24355C;
   }
