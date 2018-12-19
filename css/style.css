@@ -25,3 +25,13 @@ html {
     background-color: #24355C;
   }
   
+@media (max-width: 768px) {
+  #logo {
+    display: none;
+  }
+}
+@media (min-width: 800px) and (max-width: 850px) {
+  #logo {
+    display: none;
+  }
+}
